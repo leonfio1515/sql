@@ -1,6 +1,7 @@
 /*Consulta basica con BETWEEN */
 
 /*Realiza un filtrado entre 2 parametros */
+/*Devuelve los registros que existan dentre esos dos parametros */
 
 SELECT *
 FROM public."AdmCajasApp_errores"
